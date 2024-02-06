@@ -1,4 +1,7 @@
-%Exercice 1
+%%This exercise its original from:
+% (https://www.youtube.com/watch?v=EtUCgn3T9eE&t=3670s)
+% 
+% Exercice 1
 %eEquation: y = -(x - 3)^2+10
 %
 % A -> What is the maximum value of the following equations on the range
